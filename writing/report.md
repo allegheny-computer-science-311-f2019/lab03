@@ -13,3 +13,5 @@
 
 
 ## Ethical Benefits and Implications
+
+## 3D Printed Image
